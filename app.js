@@ -4,7 +4,7 @@ var outputDiv = document.querySelector("#output")
 
 // var serverURL = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json?text=I am Suryansh Chopra"
 
-var serverURL = "https://api.funtranslations.com/translate/yoda.json"
+var serverURL = "https://api.funtranslations.com/translate/minion.json"
 
 
 function getTranslationURL(text){
@@ -15,7 +15,7 @@ function errorHandler(error) {
     console.log("error occured", error);
     alert("Something wrong with server! try again after some time")
 }
-
+https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json
 
 function clickHandler() {
 
