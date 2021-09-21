@@ -1,2 +1,2 @@
 # banana-speak
-Day 2 of training: Vanilla Javascript to make a minion language
+Mark 6: Minions Speak App
